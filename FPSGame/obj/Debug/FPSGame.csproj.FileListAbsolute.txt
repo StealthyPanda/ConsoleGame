@@ -1,0 +1,12 @@
+C:\Users\LENOVO-PC1\AppData\Local\Temporary Projects\FPSGame\bin\Debug\FPSGame.exe.config
+C:\Users\LENOVO-PC1\AppData\Local\Temporary Projects\FPSGame\bin\Debug\FPSGame.exe
+C:\Users\LENOVO-PC1\AppData\Local\Temporary Projects\FPSGame\bin\Debug\FPSGame.pdb
+C:\Users\LENOVO-PC1\AppData\Local\Temporary Projects\FPSGame\obj\Debug\FPSGame.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO-PC1\AppData\Local\Temporary Projects\FPSGame\obj\Debug\FPSGame.exe
+C:\Users\LENOVO-PC1\AppData\Local\Temporary Projects\FPSGame\obj\Debug\FPSGame.pdb
+C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\bin\Debug\FPSGame.exe.config
+C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\obj\Debug\FPSGame.exe
+C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\obj\Debug\FPSGame.pdb
+C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\bin\Debug\FPSGame.exe
+C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\bin\Debug\FPSGame.pdb
+C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\obj\Debug\FPSGame.csprojResolveAssemblyReference.cache
