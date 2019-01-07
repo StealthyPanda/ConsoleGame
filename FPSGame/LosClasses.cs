@@ -171,12 +171,11 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '█';
-                                walled = true;
+                                //walled = true;
                             }
                             else
                             {
-                                if (!walled) Screen[x, i] = ' ';
-                                else Screen[x, i] = '▏';
+                                Screen[x, i] = ' ';
                             }
                         }
                     }
@@ -190,12 +189,11 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '▓';
-                                walled = true;
+                               //walled = true;
                             }
                             else
                             {
-                                if (!walled) Screen[x, i] = ' ';
-                                else Screen[x, i] = '▏';
+                                Screen[x, i] = ' ';
                             }
                         }
                     }
@@ -209,12 +207,11 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '▒';
-                                walled = true;
+                                //walled = true;
                             }
                             else
                             {
-                                if (!walled) Screen[x, i] = ' ';
-                                else Screen[x, i] = '▏';
+                                Screen[x, i] = ' ';
                             }
                         }
                     }
@@ -228,12 +225,11 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '░';
-                                walled = true;
+                                //walled = true;
                             }
                             else
                             {
-                                if (!walled) Screen[x, i] = ' ';
-                                else Screen[x, i] = '▏';
+                                Screen[x, i] = ' ';
                             }
                         }
                     }
