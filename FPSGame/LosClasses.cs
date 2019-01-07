@@ -14,8 +14,8 @@ namespace FPSGame
 
         //Player stats
         public static double playermovespeed = 1f;
-        public static double playerxpos = 1f;
-        public static double playerypos = 1f;
+        public static double playerxpos = 5f;
+        public static double playerypos = 5f;
         public static double playerrot = 0f;
 
         //the screen updation
@@ -25,6 +25,7 @@ namespace FPSGame
 
         //block stats
         public static int height = 3;
+        
 
 
         public static void init()
@@ -158,6 +159,7 @@ namespace FPSGame
                 for (int i = 0; i < 80; i++)
                 {
                     double colheight = 1 / (colinf[i].distance * aconst);
+                    bool walled = false;
 
                     if (0 <= colinf[i].distance && colinf[i].distance <= 3)
                     {                        
@@ -169,10 +171,12 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '█';
+                                walled = true;
                             }
                             else
                             {
-                                Screen[x, i] = ' ';
+                                if (!walled) Screen[x, i] = ' ';
+                                else Screen[x, i] = '▏';
                             }
                         }
                     }
@@ -186,10 +190,12 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '▓';
+                                walled = true;
                             }
                             else
                             {
-                                Screen[x, i] = ' ';
+                                if (!walled) Screen[x, i] = ' ';
+                                else Screen[x, i] = '▏';
                             }
                         }
                     }
@@ -203,10 +209,12 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '▒';
+                                walled = true;
                             }
                             else
                             {
-                                Screen[x, i] = ' ';
+                                if (!walled) Screen[x, i] = ' ';
+                                else Screen[x, i] = '▏';
                             }
                         }
                     }
@@ -220,10 +228,12 @@ namespace FPSGame
                             if (x > start && x < end)
                             {
                                 Screen[x, i] = '░';
+                                walled = true;
                             }
                             else
                             {
-                                Screen[x, i] = ' ';
+                                if (!walled) Screen[x, i] = ' ';
+                                else Screen[x, i] = '▏';
                             }
                         }
                     }

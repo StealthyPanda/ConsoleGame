@@ -10,3 +10,9 @@ C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\obj\Debug\FPS
 C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\bin\Debug\FPSGame.exe
 C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\bin\Debug\FPSGame.pdb
 C:\Users\LENOVO-PC1\Desktop\Touseef's stuff\csharp\FPSGame\FPSGame\obj\Debug\FPSGame.csprojResolveAssemblyReference.cache
+C:\Users\MOHAMMED TOUSEEF\Desktop\FPSGame\ConsoleGame\FPSGame\bin\Debug\FPSGame.exe.config
+C:\Users\MOHAMMED TOUSEEF\Desktop\FPSGame\ConsoleGame\FPSGame\obj\Debug\FPSGame.exe
+C:\Users\MOHAMMED TOUSEEF\Desktop\FPSGame\ConsoleGame\FPSGame\obj\Debug\FPSGame.pdb
+C:\Users\MOHAMMED TOUSEEF\Desktop\FPSGame\ConsoleGame\FPSGame\bin\Debug\FPSGame.exe
+C:\Users\MOHAMMED TOUSEEF\Desktop\FPSGame\ConsoleGame\FPSGame\bin\Debug\FPSGame.pdb
+C:\Users\MOHAMMED TOUSEEF\Desktop\FPSGame\ConsoleGame\FPSGame\obj\Debug\FPSGame.csprojResolveAssemblyReference.cache
